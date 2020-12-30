@@ -1,4 +1,4 @@
-# stx-group
+
 
 ## Project setup
 ```
